@@ -10,9 +10,10 @@ Pastikan Anda memiliki Ruby yang terinstal di sistem Anda sebelum menjalankan ap
 1. **Clone repository:**
    ```bash
    git clone https://github.com/gundowijoyo/xss_checker.git
- cd xss_checker
-   ```
-2. **Jalankan Program**
+cd xss_checker
+    ```
+   
+2. **Jalankan Program:**
   ```
   ruby xss_checker.ruby
   ```
