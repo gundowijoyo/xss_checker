@@ -1,4 +1,4 @@
-#Tools XSS Vulnerability Checker 'OPEN SOURCE'
+## Tools XSS Vulnerability Checker 'OPEN SOURCE'
 
 ## Deskripsi
 XSS Vulnerability Checker adalah aplikasi sederhana untuk mengidentifikasi potensi kerentanan Cross-Site Scripting (XSS) pada sebuah URL. Aplikasi ini ditulis menggunakan bahasa pemrograman Ruby.
@@ -9,8 +9,7 @@ Pastikan Anda memiliki Ruby yang terinstal di sistem Anda sebelum menjalankan ap
 ## Penggunaan
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/gundowijoyo/xss_checker.git
-cd xss_checker
+   git clone https://github.com/gundowijoyo/xss_checker.git cd xss_checker
     ```
    
 2. **Jalankan Program:**
