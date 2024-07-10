@@ -26,7 +26,7 @@ cd xss_checker
 - Masukkan kritik dan saran konstruktif melalui isu (issue) untuk membantu perbaikan program.
 
 ## Donate
-- <a href="https://saweria.co/Gundo">visit saweria me</a>
+- <a href="https://saweria.co/GundoWijoyo">visit saweria me</a>
 
 ## Note 
  - Jangan bingung jika ada hasil mengidentifikasi tag elemen script berpotensi
